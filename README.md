@@ -6,7 +6,7 @@ This repository contains assignments and lecture materials for **Machine Learnin
 
 **Altklausur Solutions:** In the same directory, you can find **solutions to Altklausur** written by me inside the `exam/` folder.
 
-**Exam in WS24/25:** See **[ML1_Gedächtnisprotokoll_08_3_2025.pdf](./ML1_Gedächtnisprotokoll_08_3_2025.pdf)**, which contains exam topics based on my exam experience.
+**Exam in WS24/25:** See **[ML1_Gedächtnisprotokoll_08_3_2025.pdf](./ML1_Gedächtnisprotokoll_08_3_2025.pdf)**, which contains exam topics based on my exam experience.
 
 
 
